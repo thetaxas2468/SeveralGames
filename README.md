@@ -1,5 +1,5 @@
 <h1>Games Repository</h1>
-This repository contains several classic games implemented using different programming languages and technologies.
+This repository contains several classic games implemented using programming languages and technologies.
 
 <h2>Rock, Paper, Scissors</h2>
 This is a simple implementation of the Rock, Paper, Scissors game. The game is played between the user and the computer. The user selects one of the options and the computer selects a random option. The winner is determined according to the classic rules of the game.
