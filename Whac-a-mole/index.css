@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.grid{
+    width: 600px;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.square{
+    border: 1px solid black;
+    width: 33%;
+    height: 33%;
+}
+
+.mole{
+    background-color: blue;
+}
