@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100%;
+}
+.grid{
+    position: absolute;
+    width: 560px;
+    height: 300px;
+    border: 1px solid black;
+}
+.block{
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: blue;
+}
+.user{
+    position: absolute;
+    width: 100px;
+    height: 20px;
+    background-color: green;
+}
+/* #container{
+    display: flex;
+    justify-content: center;
+    margin-top: 50vh;
+    transform: translate(0,-20vh);
+} */
+.ball {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: red;
+  }
